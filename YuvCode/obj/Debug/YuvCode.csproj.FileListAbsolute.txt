@@ -1,0 +1,10 @@
+C:\Users\Hatice\Desktop\YuvCode\YuvCode\bin\Debug\YuvCode.exe.config
+C:\Users\Hatice\Desktop\YuvCode\YuvCode\bin\Debug\YuvCode.exe
+C:\Users\Hatice\Desktop\YuvCode\YuvCode\bin\Debug\YuvCode.pdb
+C:\Users\Hatice\Desktop\YuvCode\YuvCode\obj\Debug\YuvCode.csprojAssemblyReference.cache
+C:\Users\Hatice\Desktop\YuvCode\YuvCode\obj\Debug\YuvCode.Form1.resources
+C:\Users\Hatice\Desktop\YuvCode\YuvCode\obj\Debug\YuvCode.Properties.Resources.resources
+C:\Users\Hatice\Desktop\YuvCode\YuvCode\obj\Debug\YuvCode.csproj.GenerateResource.cache
+C:\Users\Hatice\Desktop\YuvCode\YuvCode\obj\Debug\YuvCode.csproj.CoreCompileInputs.cache
+C:\Users\Hatice\Desktop\YuvCode\YuvCode\obj\Debug\YuvCode.exe
+C:\Users\Hatice\Desktop\YuvCode\YuvCode\obj\Debug\YuvCode.pdb
